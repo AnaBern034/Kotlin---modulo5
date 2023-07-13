@@ -1,2 +1,0 @@
-package `Exercicio 6`
-

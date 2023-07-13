@@ -1,0 +1,4 @@
+package REPOSITORY
+
+class ContaCorrente {
+}
